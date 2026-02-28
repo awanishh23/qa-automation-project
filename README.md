@@ -127,6 +127,10 @@ screenshots/
 ```
 if any test fails.
 
+<img width="1914" height="1123" alt="Screenshot 2026-02-27 132343" src="https://github.com/user-attachments/assets/8b7a39e9-6910-4062-9761-4511d0ee2cbb" />
+
+<img width="1323" height="278" alt="Screenshot 2026-02-27 144815" src="https://github.com/user-attachments/assets/97d92c73-62a4-4438-b2b1-c1e48a6bebc1" />
+
 ---
 ### Logging
 
@@ -153,3 +157,4 @@ to help debug failures.
 ## Author
 Awanish Ojha
 ( B.Tech Computer Science Engineering )
+
